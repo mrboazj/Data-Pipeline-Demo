@@ -12,10 +12,8 @@ This project:
 - transforms data into analytics-ready outputs
 - generates summary reports
 
-## Tech Stack
-Python, pandas, pytest
-
 ## How to run
 ```bash
 pip install -r requirements.txt
 python src/pipeline.py
+```
